@@ -1,0 +1,19 @@
+{
+    "name": "vladyslav10111/decision-making",
+    "description": "Decision-making assistant by randomly selecting from a list",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vladyslav10111\\DecisionMaking\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladyslav Tkachenko",
+            "email": "vladyslav10111@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
